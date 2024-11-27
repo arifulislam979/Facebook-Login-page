@@ -1,6 +1,5 @@
 # Facebook-Login-page
 
----
 
 ## 1. Boilerplate HTML Structure
 **Explanation:**

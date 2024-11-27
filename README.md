@@ -2,7 +2,7 @@
 
 ---
 
-1. ##Boilerplate HTML Structure
+## 1. Boilerplate HTML Structure
 **Explanation:**
 * Every HTML document starts with a boilerplate structure:
   * `<!DOCTYPE html>`: Specifies the document type as HTML5.
@@ -29,7 +29,7 @@
 
 ---
 
-2. ##Container Div
+## 2. Container Div
 **Explanation:**
 * The container div is a wrapper that contains all the content on the page.
 * It uses Flexbox to align its child elements (left-section and right-section) horizontally.
@@ -80,7 +80,7 @@ CSS Code for `container`:
 
 ---
 
-3. ##Left Section
+## 3. Left Section
 **Explanation:**
 *The `left-section` contains:
   * A heading (`h1`) styled with the Facebook blue color.
@@ -117,7 +117,7 @@ CSS Code for `left-section`:
 
 ---
 
-4. ##Right Section
+## 4. Right Section
 **Explanation:**
 * The `right-section` contains:
   1. **Login Box:**
@@ -166,7 +166,7 @@ CSS Code for `left-section`:
 
 --- 
 
-5. ##Input Fields and Buttons
+## 5. Input Fields and Buttons
 **Explanation:**
 1. Input Fields:
   * Styled to have consistent width, padding, and borders.
@@ -239,7 +239,7 @@ CSS Code for Inputs and Buttons:
 
 ---
 
-6. ##Links and Divider
+## 6. Links and Divider
 **Explanation**:
 1. Forgot Password Link:
   * Styled with a smaller font size and Facebook's blue color.
